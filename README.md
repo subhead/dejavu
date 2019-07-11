@@ -2,7 +2,7 @@ dejavu
 ==========
 
 Audio fingerprinting and recognition algorithm implemented in Python, see the explanation here:  
-[How it works](http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html)
+[How it works](http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/)
 
 Dejavu can memorize audio by listening to it once and fingerprinting it. Then by playing a song and recording microphone input, Dejavu attempts to match the audio against the fingerprints held in the database, returning the song being played. 
 
@@ -215,7 +215,7 @@ If we zoom in even closer, we can begin to imagine how to bin and discretize the
 
 ![Spectgram zoomed](plots/spectrogram_zoomed.png)
 
-For a more detailed look at the making of Dejavu, see my blog post [here](http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html).
+For a more detailed look at the making of Dejavu, see my blog post [here](https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/).
 
 ## How well it works
 
